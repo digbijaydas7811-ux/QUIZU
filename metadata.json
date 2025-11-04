@@ -1,0 +1,7 @@
+{
+  "name": "Quizu",
+  "description": "A modern quiz application that fetches real-time quiz data, designed for both mobile and web with an emphasis on performance, modularity, and a great user experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
